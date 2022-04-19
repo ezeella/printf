@@ -37,4 +37,3 @@ int prinlint(va_list arguments, char *buf, unsigned int ibuf)
 	}
 	return (i + isneg);
 }
-© 2022 GitHub, Inc
